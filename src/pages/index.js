@@ -26,7 +26,7 @@ const IndexPage = ({ data }) => {
           <div>
             <h1 className="text-4xl">CLAIM YOUR MERCH</h1>
             <p className="mt-2 text-lg font-normal">
-              Contribute to Medusa and receive free merch
+              Contribute to Carbon and receive free merch
               <br />
               as a token of our appreciation
             </p>
